@@ -1,6 +1,8 @@
 # ZAC
 ZAC (Zero-shot Audio Classification using Whisper) allows you to assign audio files to ANY class you want without training.
 
+Demo: https://huggingface.co/spaces/Jumon/whisper-zero-shot-audio-classification
+
 ## Quick Start
 1. Install [Whisper](https://github.com/openai/whisper). Follow the instructions [here](https://github.com/openai/whisper#setup) to install Whisper.
 
